@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Simon Smale",
+      "title": "England's rise from the Ashes under Ben Stokes continues apace after historic Pakistan series victory",
+      "description": "Suggesting \"Bazball\" will save Test cricket is too bold a claim, but the way England are playing is shifting the narrative, and it bodes well for next year's Ashes — from an entertainment viewpoint at least.",
+      "url": "http://www.abc.net.au/news/2022-12-21/england-rise-from-the-ashes-under-ben-stokes-brendon-mccullum/101791834",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/15f3a7175d8821cb0dbd504cb7e70d46?impolicy=wcms_crop_resize&cropH=2678&cropW=4760&xPos=0&yPos=86&width=862&height=485",
+      "publishedAt": "2022-12-20T19:00:28Z",
+      "content": "It was not all that long ago that English Test cricket was going through yet another crisis of confidence.\r\nAfter a devastating 4-0 defeat in the Ashes last summer, England's Test team continued thei… [+9830 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "England restore joy to all aspects of Test cricket",
+      "description": "You are more likely to be good at something if you enjoy it and England are winning Test matches because of the joy they bring to their cricket.",
+      "url": "http://www.bbc.co.uk/sport/cricket/64036001",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/ACCD/production/_128073244_gettyimages-1450511950.jpg",
+      "publishedAt": "2022-12-20T13:22:25.259497Z",
+      "content": "England have won nine out of 10 Tests since Brendon McCullum and Ben Stokes took charge\r\nIt stands to reason that you are more likely to be good at something if you enjoy doing it.\r\nGoing to work, do… [+5839 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
